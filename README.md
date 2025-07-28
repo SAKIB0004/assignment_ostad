@@ -1,10 +1,6 @@
-# assignment_ostad
+# assignment2_ostad_batch_11
 
-A new Flutter project.
-
-# 📱 Greeting App
-
-A simple Flutter application that demonstrates the basics of UI building and interaction handling using common widgets such as `Text`, `Image`, and `ElevatedButton`.
+> A simple Flutter application that demonstrates the basics of UI building and interaction handling using common widgets such as `Text`, `Image`, and `ElevatedButton`.
 
 ## 🎯 Objective
 
@@ -26,17 +22,11 @@ To extend a basic "Hello, World!" app by:
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ App Preview
 
 | Welcome Screen | Snackbar Pressed                          |
 |----------------|-------------------------------------------|
 | <img src=" readme_ss/1.png" width="250"/> | <img src=" readme_ss/2.png" width="250"/> |
 
-## 🖼️ App Preview
 
-<img src="https://raw.githubusercontent.com/your-username/greeting_app/main/screenshots/app_preview.png" width="300" alt="App Screenshot" />
-
-> Replace the above image URL with your own screenshot in the `screenshots/` folder
-
----
 
