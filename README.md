@@ -2,15 +2,41 @@
 
 A new Flutter project.
 
-## Getting Started
+# 📱 Greeting App
 
-This project is a starting point for a Flutter application.
+A simple Flutter application that demonstrates the basics of UI building and interaction handling using common widgets such as `Text`, `Image`, and `ElevatedButton`.
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Objective
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To extend a basic "Hello, World!" app by:
+- Adding additional styled text
+- Displaying an image from assets
+- Handling button interaction with a Snackbar
+- Applying custom styles to text and buttons
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+
+✅ Styled `"Hello, World!"` text in red and bold  
+✅ Additional welcome text  
+✅ Image loaded from `assets/images/flutter_logo.png`  
+✅ Interactive button with a green background  
+✅ Snackbar displayed on button press
+
+---
+
+## 🖼️ Screenshots
+
+| Welcome Screen | Snackbar Pressed                          |
+|----------------|-------------------------------------------|
+| <img src=" readme_ss/1.png" width="250"/> | <img src=" readme_ss/2.png" width="250"/> |
+
+## 🖼️ App Preview
+
+<img src="https://raw.githubusercontent.com/your-username/greeting_app/main/screenshots/app_preview.png" width="300" alt="App Screenshot" />
+
+> Replace the above image URL with your own screenshot in the `screenshots/` folder
+
+---
+
