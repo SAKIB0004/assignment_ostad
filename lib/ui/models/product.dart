@@ -7,14 +7,14 @@ class ProductModel {
   late int unitPrice;
   late int totalPrice;
 
-  // Constructor that handles null values
+
   ProductModel.fromJson(Map<String, dynamic> json) {
-    id = json['_id'] ?? '';  // Default empty string if null
-    name = json['ProductName'] ?? '';  // Default empty string if null
-    code = json['ProductCode'] ?? 0;  // Default to 0 if null
-    quantity = json['Qty'] ?? 0;  // Default to 0 if null
-    unitPrice = json['UnitPrice'] ?? 0;  // Default to 0 if null
-    totalPrice = json['TotalPrice'] ?? 0;  // Default to 0 if null
-    imageUrl = json['Img'] ?? '';  // Default empty string if null
+    id = json['_id'] ?? '';
+    name = json['ProductName'] ?? '';
+    code = json['ProductCode'] ?? 0;
+    quantity = json['Qty'] ?? 0;
+    unitPrice = json['UnitPrice'] ?? 0;
+    totalPrice = json['TotalPrice'] ?? 0;
+    imageUrl = json['Img'] ?? '';
   }
 }
